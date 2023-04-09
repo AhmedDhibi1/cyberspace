@@ -1,0 +1,13 @@
+ la cin :11223344 
+ la date 15 : 12 : 2022 
+ l heur d entree : 15 : 14 : 17
+ l heure de sortie : 20 : 22 : 15
+ numero de pc : 1 
+ le montant est : 7.699167 
+ le temps passee est : 5 : 7 : 58 la cin :11636917 
+ la date 11 : 11 : 2023 
+ l heur d entree : 12 : 15 : 17
+ l heure de sortie : 15 : 18 : 17
+ numero de pc : 0 
+ le montant est : 4.575000 
+ le temps passee est : 3 : 3 : 0

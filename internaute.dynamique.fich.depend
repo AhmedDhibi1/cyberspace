@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673793268 source:c:\users\user\onedrive\bureau\mini.projet.c\internaute.dynamique.fich\internaute_dynamique.fich.c
+	<stdio.h>
+	<string.h>
+	"internaute.dynamique.fich.h"
+	<time.h>
+
+1673736358 c:\users\user\onedrive\bureau\mini.projet.c\internaute.dynamique.fich\internaute.dynamique.fich.h
+	"structure.fich.h"
+
+1673636495 c:\users\user\onedrive\bureau\mini.projet.c\internaute.dynamique.fich\structure.fich.h
+
+1673793365 source:c:\users\user\onedrive\bureau\mini.projet.c\internaute.dynamique.fich\main.c
+	<stdio.h>
+	<stdlib.h>
+	"internaute.dynamique.fich.h"
+	<time.h>
+	<string.h>
+
